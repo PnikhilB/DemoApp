@@ -1,3 +1,13 @@
+Steps to Run the Project:
+
+1. go to project directory from cmd
+2. run 'npm install' 
+3. run ng serve --open
+4. Use below details to login:
+   UserName: 
+   Password:
+
+
 # TestProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
